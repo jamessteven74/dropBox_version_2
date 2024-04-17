@@ -20,3 +20,4 @@ by inserting the debug class in the Body tag you can see the structure with the 
 
 #
 ### screenshot_layout finished.
+![127 0 0 1_58679_index html](https://github.com/jamessteven74/dropBox_version_2/assets/96775417/2fca7b60-d8fb-44b2-8bf1-5f5f2758a810)
