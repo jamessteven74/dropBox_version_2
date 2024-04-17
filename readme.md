@@ -17,4 +17,6 @@ by inserting the debug class in the Body tag you can see the structure with the 
 ### screenshot_project
 ## initially worked with Figma to highlight macro areas through colored blocks
 ![Screenshot 2024-04-17 alle 18 28 41](https://github.com/jamessteven74/dropBox_version_2/assets/96775417/51906b50-2559-4151-a79b-74ab3ffe5808)
+
 #
+### screenshot_layout finished.
