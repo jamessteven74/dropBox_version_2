@@ -1,0 +1,50 @@
+
+.debug .container{
+    border: 1px solid greenyellow;
+}
+
+.debug header{
+    border: 2px solid black;
+}
+
+.debug nav, 
+.debug nav .col_50{
+    border: 2px solid coral;
+}
+
+.debug main{
+    border: 2px solid blue;
+}
+
+
+
+
+
+.debug .dropbox_business_text{
+    border: 1px dashed red;
+    background-color: lightblue;
+}
+
+ .debug section.section_enterprise, 
+  .debug section.section_partner,
+  .debug section.section_most_operation,
+  .debug section.section_500_000_team,
+  .debug .bring_in_team_container,
+  .debug div.container_questions,
+  .debug .footer_description,
+  .debug .footer_links {
+
+    border: 1px dashed red;
+ }
+
+ .debug .footer_links .col_20:first-child{
+    border: 1px dashed red;
+    background-color: lightsalmon;
+ }
+
+
+
+/* *************************************** */
+/* *************************************** */
+
+
