@@ -7,6 +7,10 @@
     font-family: "Open Sans", sans-serif;
 }
 
+body{
+    min-width: 1440px;
+}
+
 :root{
      --background-white: #ffffff;
     --background-light: #B4D0E7;
