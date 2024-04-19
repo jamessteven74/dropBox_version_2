@@ -21,3 +21,12 @@ by inserting the debug class in the Body tag you can see the structure with the 
 #
 ### screenshot_layout finished.
 ![127 0 0 1_58679_index html](https://github.com/jamessteven74/dropBox_version_2/assets/96775417/2fca7b60-d8fb-44b2-8bf1-5f5f2758a810)
+
+# bonus list:
+1) hovering the mouse over the menu items a drop-down menu appears.
+
+2) passing the mouse over the layout buttons will change the background color and some will also change the text color.
+
+3) the FAQ section has a dropdown that appears when you hover the mouse over the question.
+
+4) the arrow pointing downwards is an anchor tag that when clicked points to the plans section: professional, standard, advanced
