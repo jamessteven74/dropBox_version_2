@@ -1,0 +1,251 @@
+
+.debug .container{
+    border: 1px solid greenyellow;
+}
+
+.debug header{
+    border: 2px solid black;
+}
+
+.debug nav, 
+.debug nav .col_50{
+    border: 2px solid coral;
+}
+
+.debug main{
+    border: 2px solid blue;
+}
+
+
+
+
+
+.debug .dropbox_business_text{
+    border: 1px dashed red;
+    background-color: lightblue;
+}
+
+ .debug section.section_enterprise, 
+  .debug section.section_partner,
+  .debug section.section_most_operation,
+  .debug section.section_500_000_team,
+  .debug .bring_in_team_container,
+  .debug div.container_questions,
+  .debug .footer_description,
+  .debug .footer_links {
+
+    border: 1px dashed red;
+ }
+
+ .debug .footer_links .col_20:first-child{
+    border: 1px dashed red;
+    background-color: lightsalmon;
+ }
+
+
+
+/* *************************************** */
+/* *************************************** */
+
+/* +**************************************** *//* +**************************************** */
+/**************************************** *//* +**************************************** */
+
+
+/* *****************************************BONUS_RULES***************************************** */
+
+
+/*#region nav_dropdown_menu*/
+
+#list{
+   /*  border: 1px solid green; */
+    position: absolute;
+    top: 33px;
+     /*  background-color: cornflowerblue */
+}
+
+#list_funzioni{
+    /* border: 1px solid green; */
+    position: absolute;
+     top:33px;
+     left: 330px;
+     /* background-color: cornflowerblue */
+}
+
+#list_piani{
+    /* border: 1px solid green; */
+    position: absolute;
+     top:33px;
+     left: 430px;
+    /*  background-color: cornflowerblue */
+}
+
+.dropdown_list li{
+    list-style-type: none;
+}
+
+.sub_menu li {
+    text-align: justify;
+    padding: 0.5rem 0;
+    
+}
+
+.sub_menu li a{
+    color: black;
+}
+
+.sub_menu{
+    background-color:cornflowerblue;
+    display: none;
+    
+}
+
+#list:hover, 
+#list_funzioni:hover,
+#list_piani:hover{
+    background-color: cornflowerblue;
+}
+
+#list:hover .sub_menu,
+#list_funzioni:hover .sub_menu,
+#list_piani:hover .sub_menu{
+    display: block;
+}
+
+
+
+#list>a, 
+#list_funzioni>a,
+#list_piani>a{
+    text-align: justify;
+   padding: 0 15px;
+}
+
+/** /left_menu_dropdown */
+
+/* *************************************** */
+/* *************************************** */
+
+#list_supporto:hover .sub_menu,
+#list_contatta:hover .sub_menu,
+#list_accedi:hover .sub_menu{
+display: block;
+}
+
+#list_supporto{
+    position: absolute;
+    top: 33px;
+    left: 116px;
+
+}
+
+#list_contatta{
+     position: absolute;
+    top: 33px;
+    left: 215px;
+}
+
+#list_accedi{
+    position: absolute;
+     top: 33px;
+      left: 415px;
+}
+
+#list_supporto:hover, 
+#list_contatta:hover,
+#list_accedi:hover{
+    background-color: cornflowerblue;
+}
+
+
+.btn_access {
+    position: absolute;
+    top: 33px;
+    left: 495px;
+}
+
+#list_supporto>a, 
+#list_contatta>a,
+#list_accedi>a{
+    text-align: justify;
+   padding: 0 15px;
+}
+
+/** /right_menu_dropdown */
+
+/*#endregion  nav_dropdown_menu*/
+/* *************************************** */
+/* *************************************** */
+
+/*#region btn_hover*/
+
+.btn_blue_sky:hover{
+    background-color: var(--background-blue);
+    color: white;
+    
+}
+
+.meet_partner:hover{
+    background-color: black;
+    color: white;
+}
+
+
+/*#endregion btn_hover*/
+
+
+
+
+/* *************************************** */
+/* *************************************** */
+
+
+/*#region FAQ*/
+
+.box_answer p{
+    display: none;
+}
+
+.box_answer:hover  p{
+    display: block;
+    color: var(--background-light-blue);
+   border-bottom: 1px solid grey;
+}
+
+.box_answer:hover .fa-chevron-down{
+    transform: rotate(180deg);
+}
+
+.box_answer:hover h4.answer{
+    border: none;
+}
+
+/*#endregion FAQ*/
+
+/* *************************************** */
+/* *************************************** */
+
+/*#region common*/
+
+html {
+  scroll-behavior: smooth;
+}
+.fa-arrow-down{
+    color: black;
+}
+footer#site_footer {
+    margin-top: 30rem;
+}
+
+.container_answer{
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
+
+
+/*#endregion common*/
+
+
+
+
+
